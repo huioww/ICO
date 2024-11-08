@@ -1,1 +1,1 @@
-curl -o- https://console.icn.global/downloads/install/start.sh | bash -s -- -p <private_key>
+curl -o- https://console.icn.global/downloads/install/start.sh | bash -s -- -p <8f4f357db91ca97df49946b333d721a3012f1c1728ba5aef67b689bdda9e3e3b>
